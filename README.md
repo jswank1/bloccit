@@ -1,6 +1,8 @@
 A Reddit-style application to demonstrate foundation programming and web development skills.
 
 App Name --> "joshuaswank-bloccit"
+http://joshuaswank-bloccit.herokuapp.com
+
 
 
 
